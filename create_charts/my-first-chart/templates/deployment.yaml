@@ -4,7 +4,7 @@ kind: Deployment
   {{- .Values.customblock.author.address}}
 
   {{- "Values from Chart"}}
-  {{- .Chart.apiVersion}}
+  {{- .Chart.Apiversion}}
   {{- .Chart.Keywords}}
   {{- .Chart.Maintainers.Email}}
 
