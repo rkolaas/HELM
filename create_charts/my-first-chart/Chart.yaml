@@ -7,8 +7,8 @@ keywords:
   - web-app
 
 maintainers:
-  - name: Robert Kolås
-    email: rkolas@catalystone.com
+  - name: "Robert Kolås"
+    email: "rkolas@catalystone.com"
 
 # A chart can be either an 'application' or a 'library' chart.
 #
