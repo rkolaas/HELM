@@ -3,8 +3,8 @@ name: my-first-chart
 description: A Helm chart for Kubernetes
 
 keywords:
- - "custom-chart"
- - "web-app"
+ - custom-chart
+ - web-app
 
 maintainers:
   - name: "Robert Kolås"
