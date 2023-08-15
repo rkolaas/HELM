@@ -6,6 +6,7 @@ customblock:
   author:
     name: "Geir"
     address: "skiensgate 15"
+    email:
 
 replicaCount: 3
 
