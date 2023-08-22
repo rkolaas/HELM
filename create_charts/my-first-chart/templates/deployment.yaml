@@ -12,8 +12,8 @@ author:
 {{- end}}
 
 images:
-{{- range $key,$value .Values.image}}
- {{$key}}:{{$value}}
+{{- range $key,$value := .Values.image}}
+ {{$key}}: {{$value}}
 {{- end}}
 
 metadata:
