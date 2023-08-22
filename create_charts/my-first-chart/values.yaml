@@ -10,6 +10,7 @@ customblock:
       - "Mark"
       - "Juan"
       - "Camela"
+      - "Julia"
 
 replicaCount: 3
 
