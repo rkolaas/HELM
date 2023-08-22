@@ -4,9 +4,7 @@
 
 customblock:
   author:
-    name: "Geir"
-    address: "skiensgate 15"
-    email:
+    name: true
 
 replicaCount: 3
 
