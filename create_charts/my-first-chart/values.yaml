@@ -93,6 +93,10 @@ affinity: {}
 
 mysql :
   enabled : true
+  auth: 
+    database: "my_custom_db"
+    username: "customowner"
+    password: "test12345"
 
 rabbitmq:
-  enabled: false
+  enabled: true
