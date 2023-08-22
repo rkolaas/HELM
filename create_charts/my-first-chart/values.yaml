@@ -4,7 +4,12 @@
 
 customblock:
   author:
-    name: {}
+    name: 
+      - "Edward"
+      - "Peter"
+      - "Mark"
+      - "Juan"
+      - "Camela"
 
 replicaCount: 3
 
